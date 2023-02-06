@@ -1,0 +1,12 @@
+package com.mysite.sbb;
+
+import org.springframework.stereotype.Controller;
+
+@Controller // Spring Boot Framework에 helloController 빈등록
+public class HelloController {
+
+	public String hello() {
+		
+	}
+	
+}
